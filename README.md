@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/amarezewdie/amarezewdie/blob/main/github-banner.png" alt="GitHub Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Amare Zewdie</h1>
 <h3 align="center">A passionate Full Stack Developer from Ethiopia</h3>
 
