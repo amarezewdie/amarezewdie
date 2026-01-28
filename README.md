@@ -19,17 +19,9 @@
 ---
 ## 🤝 Connect with Me
 
-## 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/amare-zewdie/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" style="fill:#0A66C2;" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/love_me1921" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" alt="Telegram" height="30" width="30" style="fill:#0088CC;" />
-  </a>
-</p>
+- **LinkedIn:** [https://www.linkedin.com/in/amare-zewdie](https://www.linkedin.com/in/amare-zewdie)  
+- **Telegram:** [@love_me1921](https://t.me/love_me1921)  
+- **Email:** amare.zewdie@example.com
 
 ---
 
