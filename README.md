@@ -17,11 +17,12 @@
 - ⚡ Fun fact: **I love turning real-world problems into reliable systems**
 
 ---
+
 ## 🤝 Connect with Me
 
 - **LinkedIn:** [https://www.linkedin.com/in/amare-zewdie](https://www.linkedin.com/in/amare-zewdie)  
 - **Telegram:** [@love_me1921](https://t.me/love_me1921)  
-- **Email:** amare.zewdie@example.com
+- **Email:** amarezewdie19@gmail.com
 
 ---
 
