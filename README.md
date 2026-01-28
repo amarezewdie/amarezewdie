@@ -9,23 +9,12 @@
 
 ## 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td width="30%" valign="top">
-      <img src="https://github.com/amarezewdie.png" alt="Amare Zewdie" width="200" style="border-radius: 10%;" />
-    </td>
-    <td valign="top">
-      <ul>
-        <li>🔭 I'm currently building <strong>scalable backend systems & full-stack applications</strong></li>
-        <li>🌱 Strong focus on <strong>Backend Engineering, Clean Architecture, and System Design</strong></li>
-        <li>💬 Ask me about <strong>Node.js, Express, Go, REST APIs, Docker, Databases</strong></li>
-        <li>👨‍💻 All of my projects are available at <a href="https://github.com/amarezewdie">github.com/amarezewdie</a></li>
-        <li>📫 Reach me at <strong>amarezewdie19@gmail.com</strong></li>
-        <li>⚡ Fun fact: <strong>I love turning real-world problems into reliable systems</strong></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- 🔭 I'm currently building **scalable backend systems & full-stack applications**
+- 🌱 Strong focus on **Backend Engineering, Clean Architecture, and System Design**
+- 💬 Ask me about **Node.js, Express, Go, REST APIs, Docker, Databases**
+- 👨‍💻 All of my projects are available at [github.com/amarezewdie](https://github.com/amarezewdie)
+- 📫 Reach me at **amarezewdie19@gmail.com**
+- ⚡ Fun fact: **I love turning real-world problems into reliable systems**
 
 ---
 
