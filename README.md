@@ -11,7 +11,7 @@
 
 - 🔭 I'm currently building **scalable backend systems & full-stack applications**
 - 🌱 Strong focus on **Backend Engineering, Clean Architecture, and System Design**
-- 💬 Ask me about **Node.js, Express, Go, REST APIs, Docker, Databases**
+- 💬 Ask me about ** React,Next.js, Node.js, Express, Go, REST APIs, Docker, Databases**
 - 👨‍💻 All of my projects are available at [github.com/amarezewdie](https://github.com/amarezewdie)
 - 📫 Reach me at **amarezewdie19@gmail.com**
 - ⚡ Fun fact: **I love turning real-world problems into reliable systems**
@@ -48,6 +48,7 @@
 ### 🌐 Frontend
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
 </p>
