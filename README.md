@@ -17,16 +17,15 @@
 - ⚡ Fun fact: **I love turning real-world problems into reliable systems**
 
 ---
-
 ## 🤝 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amare-zewdie/" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" style="fill:#0A66C2;" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://t.me/love_me1921" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/telegram.svg" alt="Telegram" height="30" width="40" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" alt="Telegram" height="30" width="30" style="fill:#0088CC;" />
   </a>
 </p>
 
