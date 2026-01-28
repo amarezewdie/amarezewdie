@@ -19,6 +19,8 @@
 ---
 ## 🤝 Connect with Me
 
+## 🤝 Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/amare-zewdie/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" style="fill:#0A66C2;" />
