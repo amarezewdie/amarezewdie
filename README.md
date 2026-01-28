@@ -2,6 +2,10 @@
 <h3 align="center">Full Stack & Backend-Focused Software Engineer from Ethiopia 🇪🇹</h3>
 
 <p align="center">
+  <img src="https://github.com/amarezewdie.png" alt="Amare Zewdie" width="150" style="border-radius: 50%;" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=amarezewdie&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
@@ -24,6 +28,10 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/amare-zewdie/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/love_me1921" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Telegram" height="30" width="40" />
   </a>
 </p>
 
