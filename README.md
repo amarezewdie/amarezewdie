@@ -1,31 +1,25 @@
 <h1 align="center">Hi 👋, I'm Amare Zewdie</h1>
 <h3 align="center">Full Stack & Backend-Focused Software Engineer from Ethiopia 🇪🇹</h3>
 
-<p align="center">
-  <img src="https://github.com/amarezewdie.png" alt="Amare Zewdie" width="150" style="border-radius: 50%;" />
+<p align="center" style="display:flex; align-items:center; justify-content:center; gap:20px; margin-top:0;">
+  <!-- Profile Photo -->
+  <img src="https://github.com/amarezewdie.png" alt="Amare Zewdie" width="120" style="border-radius:50%; margin:0; padding:0;"/>
+
+  <!-- Info next to photo -->
+  <span style="text-align:left; display:inline-block; max-width:500px; line-height:1.4;">
+    <strong>🌱 Currently:</strong> Building scalable backend & full-stack apps<br>
+    <strong>💬 Ask me about:</strong> Node.js, Express, Go, REST APIs, Docker, Databases<br>
+    <strong>👨‍💻 Projects:</strong> <a href="https://github.com/amarezewdie">github.com/amarezewdie</a><br>
+    <strong>📫 Reach me:</strong> amarezewdie19@gmail.com<br>
+    <strong>⚡ Fun fact:</strong> I love solving real-world problems with code
+  </span>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amarezewdie&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
----
-
-## 🚀 About Me
-
-- 🔭 I’m currently building **scalable backend systems & full-stack applications**
-- 🌱 Strong focus on **Backend Engineering, Clean Architecture, and System Design**
-- 💬 Ask me about **Node.js, Express, Go, REST APIs, Docker, Databases**
-- 👨‍💻 All of my projects are available at  
-  👉 **https://github.com/amarezewdie**
-- 📫 Reach me at **amarezewdie19@gmail.com**
-- ⚡ Fun fact: **I love turning real-world problems into reliable systems**
 
 ---
 
 ## 🤝 Connect with Me
 
-<p align="center">
+<p align="center" style="margin-top:0;">
   <a href="https://www.linkedin.com/in/amare-zewdie/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
   </a>
@@ -39,7 +33,6 @@
 
 ## 🛠️ Languages & Technologies
 
-### 👨‍💻 Programming Languages
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
@@ -47,7 +40,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 </p>
 
-### ⚙️ Backend & APIs
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="40"/>
@@ -56,14 +48,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
 </p>
 
-### 🌐 Frontend
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
 </p>
 
-### 🧰 DevOps & Tools
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
