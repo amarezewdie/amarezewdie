@@ -1,7 +1,5 @@
-
-
 <h1 align="center">Hi 👋, I'm Amare Zewdie</h1>
-<h3 align="center">A passionate Full Stack Developer from Ethiopia</h3>
+<h3 align="center">Full Stack & Backend-Focused Software Engineer from Ethiopia 🇪🇹</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amarezewdie&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -9,15 +7,20 @@
 
 ---
 
-- 🌱 I’m currently working with **React, Node.js, Express, PostgreSQL, and MongoDB**
-- 👨‍💻 All of my projects are available at [https://github.com/amarezewdie](https://github.com/amarezewdie)
-- 💬 Ask me about **JavaScript, React, Node.js, Express, PostgreSQL, MongoDB**
-- 📫 How to reach me: **amarezewdie19@gmail.com**
-- ⚡ Fun fact: **I love solving real-world problems with code**
+## 🚀 About Me
+
+- 🔭 I’m currently building **scalable backend systems & full-stack applications**
+- 🌱 Strong focus on **Backend Engineering, Clean Architecture, and System Design**
+- 💬 Ask me about **Node.js, Express, Go, REST APIs, Docker, Databases**
+- 👨‍💻 All of my projects are available at  
+  👉 **https://github.com/amarezewdie**
+- 📫 Reach me at **amarezewdie19@gmail.com**
+- ⚡ Fun fact: **I love turning real-world problems into reliable systems**
 
 ---
 
-<h3 align="center">Connect with me:</h3>
+## 🤝 Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/amare-zewdie/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
@@ -26,36 +29,50 @@
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
+## 🛠️ Languages & Technologies
+
+### 👨‍💻 Programming Languages
 <p align="center">
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+</p>
+
+### ⚙️ Backend & APIs
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+</p>
+
+### 🌐 Frontend
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
+</p>
+
+### 🧰 DevOps & Tools
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amarezewdie&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amarezewdie&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amarezewdie" alt="GitHub Streak" />
-</p>
+## 🧠 What I Focus On
+
+- Clean Architecture & Hexagonal Architecture
+- RESTful API Design
+- Authentication & Authorization (JWT, OAuth)
+- Dockerized Backend Systems
+- Database Design & Migrations
+- Scalable Backend Patterns
+
+---
+
+⭐ **If you like my work, consider giving a star to my repositories!**
